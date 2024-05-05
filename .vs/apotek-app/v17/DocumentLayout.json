@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\apotek-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|c:\\users\\user\\source\\repos\\apotek-app\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|solutionrelative:signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|c:\\users\\user\\source\\repos\\apotek-app\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|C:\\Users\\User\\source\\repos\\apotek-app\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|c:\\users\\user\\source\\repos\\apotek-app\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|C:\\Users\\User\\source\\repos\\apotek-app\\listtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|solutionrelative:listtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|c:\\users\\user\\source\\repos\\apotek-app\\listtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|solutionrelative:listtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|C:\\Users\\User\\source\\repos\\apotek-app\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|c:\\users\\user\\source\\repos\\apotek-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|c:\\users\\user\\source\\repos\\apotek-app\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|C:\\Users\\User\\source\\repos\\apotek-app\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB66D9B-AB3E-42F8-B2D0-F0CAAFA4087F}|apotek-app.csproj|solutionrelative:signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\apotek-app\\ListTransaction.cs",
+              "RelativeDocumentMoniker": "ListTransaction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\apotek-app\\ListTransaction.cs",
+              "RelativeToolTip": "ListTransaction.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA5wEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:51:16.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListTransaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\apotek-app\\ListTransaction.cs",
+              "RelativeDocumentMoniker": "ListTransaction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\apotek-app\\ListTransaction.cs [Design]",
+              "RelativeToolTip": "ListTransaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:51:10.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\apotek-app\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\apotek-app\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAtwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:43:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\apotek-app\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\apotek-app\\Transaction.cs [Design]",
+              "RelativeToolTip": "Transaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:42:59.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignInForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\apotek-app\\SignInForm.cs",
+              "RelativeDocumentMoniker": "SignInForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\apotek-app\\SignInForm.cs",
+              "RelativeToolTip": "SignInForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBUAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:39:39.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\apotek-app\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\apotek-app\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwB0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:38:52.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\apotek-app\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\apotek-app\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:34:52.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\apotek-app\\SignInForm.cs",
+              "RelativeDocumentMoniker": "SignInForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\apotek-app\\SignInForm.cs [Design]",
+              "RelativeToolTip": "SignInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:32:14.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\apotek-app\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\apotek-app\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:06:45.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\apotek-app\\Connection.cs",
+              "RelativeDocumentMoniker": "Connection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\apotek-app\\Connection.cs",
+              "RelativeToolTip": "Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:36:05.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
